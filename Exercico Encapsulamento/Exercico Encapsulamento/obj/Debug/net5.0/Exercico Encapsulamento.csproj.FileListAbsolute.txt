@@ -1,0 +1,16 @@
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\bin\Debug\net5.0\Exercico Encapsulamento.exe
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\bin\Debug\net5.0\Exercico Encapsulamento.deps.json
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\bin\Debug\net5.0\Exercico Encapsulamento.runtimeconfig.json
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\bin\Debug\net5.0\Exercico Encapsulamento.runtimeconfig.dev.json
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\bin\Debug\net5.0\Exercico Encapsulamento.dll
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\bin\Debug\net5.0\ref\Exercico Encapsulamento.dll
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\bin\Debug\net5.0\Exercico Encapsulamento.pdb
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\obj\Debug\net5.0\Exercico Encapsulamento.csproj.AssemblyReference.cache
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\obj\Debug\net5.0\Exercico Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\obj\Debug\net5.0\Exercico Encapsulamento.AssemblyInfoInputs.cache
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\obj\Debug\net5.0\Exercico Encapsulamento.AssemblyInfo.cs
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\obj\Debug\net5.0\Exercico Encapsulamento.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\obj\Debug\net5.0\Exercico Encapsulamento.dll
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\obj\Debug\net5.0\ref\Exercico Encapsulamento.dll
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\obj\Debug\net5.0\Exercico Encapsulamento.pdb
+F:\ws-vs2019\Exercicio Conta Banco\Exercico Encapsulamento\Exercico Encapsulamento\obj\Debug\net5.0\Exercico Encapsulamento.genruntimeconfig.cache
